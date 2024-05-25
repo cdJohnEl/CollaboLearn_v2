@@ -87,3 +87,5 @@ body,
     border-color: hsl(var(--border));
   }
 }
+
+@import "~@uploadthing/react/styles.css"
